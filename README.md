@@ -48,4 +48,4 @@
 
 ---
 
-⚡ **Fun fact:** I think I am funny 😄  
+⚡ **About me:** Coffee lover😄  
