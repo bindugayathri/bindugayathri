@@ -44,13 +44,7 @@
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hima-bindu-gayathri-134a31208)  
 - 📧 gayathri260501@gmail.com  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bindugayathri&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bindugayathri&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bindugayathri&show_icons=true&theme=dark)  
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/gayathri7799)  
 
 ---
 
