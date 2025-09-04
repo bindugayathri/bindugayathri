@@ -8,7 +8,7 @@
 - 📊 3+ years of experience transforming data into actionable insights  
 - 🧠 Skilled in Machine Learning, NLP, Deep Learning, and Time-Series Forecasting  
 - ☁️ Hands-on with AWS, Azure, and scalable data solutions in production  
-- 📝 Currently pursuing **MS in Information Systems & Technologies (UNT, GPA: 3.8)**  
+- 📝 Graduated **MS in Information Systems & Technologies (UNT, GPA: 3.8)**  
 - ✍️ Love writing about data science & sharing knowledge  
 
 ---
